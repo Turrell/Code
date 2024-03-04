@@ -8,8 +8,9 @@
 /*                                                                           */
 /* Program prints "Hello World"                                              */
 /*                                                                           */
-/* Approximate Completition Time: 1 mins                                    */
+/* Approximate Completition Time: 1 mins                                     */
 /*                                                                           */
+/* Note for later: -std=iso9899:199409                                       */
 /* UPDATED:                                                                  */
 /*                                                                           */
 /*****************************************************************************/
