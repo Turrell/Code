@@ -1,5 +1,6 @@
 # rust
-# Following the Github tutorial FROM https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes  README files typically include information on: 
+# Following the Github tutorial 
+#FROM https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes  README files typically include information on: 
 What the project does 
 Why the project is useful 
 How users can get started with the project 
