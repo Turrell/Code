@@ -13,6 +13,7 @@ python python programming language
 
 rust   rust programming language
 # Why the project is useful 
+  Basic concepts in three different languages.
 # How users can get started with the project 
 	Clone repository and act accordingly.
 # Where users can get help with your project 
@@ -21,7 +22,7 @@ rust   rust programming language
 # Who maintains and contributes to the project 
 	tyturrell@gmail.com 
 	
-Auto-generated table of contents for README files Section links in README files and blob 
+#Auto-generated table of contents for README files Section links in README files and blob 
 # pages #Relative links and image paths in README files Further reading "Adding a file to a repository" 18F's "Making READMEs readable"
 
 
