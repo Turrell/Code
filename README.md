@@ -5,17 +5,24 @@
 # README files typically include information on:
 
 # What the project does 
-# Why the project is useful 
-# How users can get started with the project 
-# Where users can get help with your project 
-# Who maintains and contributes to the project 
-Auto-generated table of contents for README files Section links in README files and blob 
-# pages #Relative links and image paths in README files Further reading "Adding a file to a repository" 18F's "Making READMEs readable"
-
-
-Code
-Jim Cannings programming problems in different programming languages.
+Code: Jim Cannings programming problems in different programming languages.
 
 c_code c programming language
 python python programming language
 rust   rust programming language
+# Why the project is useful 
+# How users can get started with the project 
+	Clone repository and act accordingly.
+# Where users can get help with your project 
+	tyturrell@gmail.com
+	But don't expect too much or anything at all.
+# Who maintains and contributes to the project 
+	tyturrell@gmail.com 
+	
+Auto-generated table of contents for README files Section links in README files and blob 
+# pages #Relative links and image paths in README files Further reading "Adding a file to a repository" 18F's "Making READMEs readable"
+
+
+
+
+
